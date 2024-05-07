@@ -22,7 +22,7 @@ Estou sempre pronto para novas aventuras de desenvolvimento, projetos desafiador
 
 Entre em Contato:
 - 📧 Email: victorpurkottcoelho@gmail.com
-- 🔗 LinkedIn: Victor Purkott
+- 🔗 LinkedIn: [Victor Purkott](https://www.linkedin.com/in/victor-purkott-542183298/)
 - 🎮 Discord: purkottzin
 
 Sinta-se à vontade para me contatar! Estou sempre aberto para discussões sobre colaborações ou para apenas trocar ideias e experiências sobre desenvolvimento/programação.
