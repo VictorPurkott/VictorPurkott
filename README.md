@@ -1,6 +1,6 @@
 Olá! Prazer em conhecê-lo, sou o Victor Purkott. 👋
 
-Um entusiasta do desenvolvimento que adora traduzir ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
+Um entusiasta do programação/desenvolvimento que adora traduzir ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
 
 
 Quem Sou Eu:
