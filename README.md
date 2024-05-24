@@ -1,12 +1,7 @@
 ### Olá! Prazer em conhecê-lo, sou o **Victor Purkott.**
 
 Um entusiasta da programação/desenvolvimento que adora transformar ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
-
-
-### Quem Sou Eu:
-
-Sou um criador, um sonhador, um solucionador de problemas - tudo embalado em um desenvolvedor dedicado. Sempre tive um fascínio por como as coisas funcionam, e agora tenho o privilégio de transformar esse fascínio em uma carreira gratificante. Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de sistemas sob demanda.
-
+Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de sistemas sob demanda.
 
 ### O Que Faço:
 - 💻 Desenvolvimento de software personalizado, meticulosamente adaptado para atender às necessidades únicas de nossos clientes.
@@ -51,10 +46,9 @@ Sou um criador, um sonhador, um solucionador de problemas - tudo embalado em um 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
 </div>
 
-
-Entre em Contato:
+### Entre em Contato:
 - 📧 Email: victorpurkottcoelho@gmail.com
 - 🔗 LinkedIn: [Victor Purkott](https://www.linkedin.com/in/victor-purkott-542183298/)
 - 🎮 Discord: purkottzin
 
-Sinta-se à vontade para me contatar! Estou sempre aberto para discussões sobre colaborações ou para apenas trocar ideias e experiências sobre desenvolvimento/programação.
+**Sinta-se à vontade para me contatar! Estou sempre aberto para discussões sobre colaborações ou para apenas trocar ideias e experiências sobre desenvolvimento/programação.**
