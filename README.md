@@ -3,12 +3,6 @@
 Um entusiasta da programação/desenvolvimento que adora transformar ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
 Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
-### O Que Faço:
-- 💻 Desenvolvimento de software personalizado, meticulosamente adaptado para atender às necessidades únicas de nossos clientes.
-- 🚀 Transformação de conceitos e visões em realidade por meio de código, com uma paixão especial por design de interface e experiência do usuário.
-- 🔧 Encaro os desafios de frente, sempre em busca de soluções criativas e inovadoras que impulsionem o desenvolvimento de front-end e back-end.
-- ❄️ Comprometido com a melhoria contínua, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades técnicas em front-end, enquanto também continuo a explorar novas áreas no vasto campo da programação.
-
 ### Linguagens que eu Programo:
 #### Front-End:
 
