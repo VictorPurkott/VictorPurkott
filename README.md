@@ -41,7 +41,7 @@ Sou um criador, um sonhador, um solucionador de problemas - tudo embalado em um 
 #### Tecnologias de Infraestrutura:
 
 <div style="display: flex;">
-    <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
 </div>
 
 #### Gerenciamento de Dados:
