@@ -1,7 +1,7 @@
 ### Olá! Prazer em conhecê-lo, sou o **Victor Purkott.**
 
 Um entusiasta da programação/desenvolvimento que adora transformar ideias em soluções digitais incríveis. Sou como aquele artista que transforma uma tela em branco em uma obra de arte digital. Além disso, tenho uma queda por front-end, mas também faço mágica nos bastidores do back-end quando necessário.
-Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de sistemas sob demanda.
+Atualmente, estou no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
 ### O Que Faço:
 - 💻 Desenvolvimento de software personalizado, meticulosamente adaptado para atender às necessidades únicas de nossos clientes.
