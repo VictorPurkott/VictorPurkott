@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-purkott-542183298/)
+<hr>
 ### Olá! Prazer em conhecê-lo, sou o **Victor Purkott.**
 
 Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
@@ -11,8 +13,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40">
 </div>
-
-#### Back-End:
+**Back-End:**
 
 <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
