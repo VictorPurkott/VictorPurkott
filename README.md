@@ -11,6 +11,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40">
 </div>
+
 #### Back-End:
 
 <div style="display: flex;">
