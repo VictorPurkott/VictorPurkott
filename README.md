@@ -6,10 +6,10 @@
 Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorPurkott&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorPurkott&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPurkott&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPurkott&layout=compact&langs_count=8&card_width=300&theme=transparent" />
 </a>
 
 ### Linguagens que eu Programo:
