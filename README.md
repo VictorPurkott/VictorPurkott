@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-purkott-542183298/)
 [![Email](https://img.shields.io/badge/Email-4D4D4D?style=for-the-badge&logo=gmail)](mailto:seuemail@exemplo.com)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram)](https://www.instagram.com/seuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram)](https://www.instagram.com/seuusuario)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/seuid)
 <hr>
 
