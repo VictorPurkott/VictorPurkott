@@ -38,7 +38,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" style="border-radius: 5px;">
 </div>
 
-#### Gerenciamento de Dados:
+#### Banco de Dados:
 <div style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
