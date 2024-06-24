@@ -5,6 +5,9 @@
 
 Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPurkott&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPurkott&show_icons=true&theme=transparent)
+
 ### Linguagens que eu Programo:
 #### Front-End:
 <div style="display: flex;">
