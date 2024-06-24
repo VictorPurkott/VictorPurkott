@@ -12,7 +12,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPurkott&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPurkott&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPurkott&layout=compact&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPurkott&show_icons=true&theme=transparent)
 
 ### Linguagens que eu Programo:
