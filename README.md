@@ -12,7 +12,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPurkott&layout=compact&langs_count=8&card_width=300&theme=midnight-purple" />
-</a>
+</a><hr>
 
 ### Linguagens que eu Programo:
 <p><b>Back-end:<b> </p>
@@ -30,7 +30,7 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
 
 <p><b>Banco de Dados:</b></p>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)<br><hr>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)<br>
 <p><b>Ferramentas:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma)](https://skillicons.dev)<br><hr>
