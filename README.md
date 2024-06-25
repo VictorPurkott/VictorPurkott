@@ -5,8 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Olá!+Prazer+em+conhecê-lo+sou+o+Victor+Purkott.;Sou+um+Developer.;E+também+um+Empreendedor!)](https://git.io/typing-svg) <br><hr>
 
-Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=VictorPurkott&theme=midnight-purple" />
 </a>
