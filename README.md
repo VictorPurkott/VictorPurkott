@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/purkott_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/purkottzin)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Olá!+Prazer+em+conhecê-lo+sou+o+Victor+Purkott;Sou+um+Developer;E+também+um+empreendedor)](https://git.io/typing-svg) <br><hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Olá!+Prazer+em+conhecê-lo+sou+o+Victor+Purkott.;Sou+um+Developer.;E+também+um+Empreendedor!)](https://git.io/typing-svg) <br><hr>
 
 Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
