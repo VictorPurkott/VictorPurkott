@@ -2,9 +2,8 @@
 [![Email](https://img.shields.io/badge/Email-4D4D4D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorpurkottcoelho@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/purkott_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/purkottzin)
-<hr>
 
-### Olá! Prazer em conhecê-lo, sou o **Victor Purkott.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Olá!+Prazer+em+conhecê-lo+sou+o+Victor+Purkott;I'm+a+Developer)](https://git.io/typing-svg) <br><hr>
 
 Sou um programador/desenvolvedor que está atualmente no caminho do empreendedorismo como fundador de uma empresa de desenvolvimento de softwares.
 
@@ -16,43 +15,25 @@ Sou um programador/desenvolvedor que está atualmente no caminho do empreendedor
 </a>
 
 ### Linguagens que eu Programo:
-#### Front-End:
-<div style="display: flex;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40">
-</div>
+<p><b>Back-end:<b> </p>
+  
+[![My Skills](https://skillicons.dev/icons?i=cs,java,php)](https://skillicons.dev)<br>
+<p><b>Front-end:<b> </p>
 
-#### Back-End:
-<div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)<br>
+<p><b>Frameworks:<b> </p>
 
-#### Frameworks:
-<div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)<br>
+<p><b>Tecnologias de Infraestrutura:</b></p>
 
-#### Tecnologias de Infraestrutura:
-<div style="display: flex;">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" style="border-radius: 5px;">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)<br>
 
-#### Banco de Dados:
-<div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
-</div>
+<p><b>Banco de Dados:</b></p>
 
-#### Ferramentas:
-<div style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="40" height="40">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)<br><hr>
+<p><b>Ferramentas:</b></p>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,figma)](https://skillicons.dev)<br><hr>
 
 ### Entre em Contato:
 - 📧 Email: victorpurkottcoelho@gmail.com
